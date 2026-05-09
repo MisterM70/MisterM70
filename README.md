@@ -4,7 +4,7 @@
 I'm mostly a game dev and share my games here and on itch.io if they get popular. Itch.io will have most games, but I will share some source-code here and if the game is free even the binary.
 
 ## What I'm currently working on:
-Giant horror-project (No more info, no spoilers 😏)
+File Explorer Program (Nothing fishy going on 😏)
 
 ## What I'm currently Learning:
 Programming for older consoles (like the GameBoy)
