@@ -1,5 +1,5 @@
 # Mister.M
-###That random guy
+### That random guy
 ## Why I am here:
 I'm mostly a game dev and share my games here and on itch.io if they get popular. Itch.io will have most games, but I will share some source-code here and if the game is free even the binary.
 
